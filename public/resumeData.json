@@ -1,141 +1,207 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Pablo Domínguez",
+    "occupation": "Fullstack Software Engineer",
+    "description": "----maybe later----",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "Since I remember, I've always loved technology. I was fascinated, like a wizard, you can create spaces and forms that didn't exist before. I was 5 years old when I broke my first computer, 9 when I created my very first HTML page, and 11 when I made my very first videogame. Since then I've learned \"a few more things\" and I'm confident we could work towards a solution that will fit your needs.",
+    "contactmessage": "I'm always all ears to new exciting opportunities, so feel free to leave a message downs here.",
+    "email": "contact@pablodominguez.net",
+    "phone": "+52 (646) 220 9357",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "Av. Ruiz",
+      "city": "Ensenada",
+      "state": "Baja California",
+      "country": "Mexico",
+      "zip": "22800"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "http://pablodominguez.net",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/dominguezmedina/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
+        "name": "github",
+        "url": "https://github.com/pbldmngz",
+        "className": "fa fa-github"
       },
       {
-        "name": "github",
-        "url": "http://github.com/tbakerx",
-        "className": "fa fa-github"
+        "name": "spotify",
+        "url": "https://open.spotify.com/user/qeuuf5fe87ujjvlfwi60di9fs",
+        "className": "fa fa-music"
+      },
+      {
+        "name": "codewars",
+        "url": "https://www.codewars.com/users/pbldmngz",
+        "className": "fa fa-plus"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I'm always open to new opportunities to grow and improve.",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "CETYS",
+        "degree": "Bachelor's Degree in Software Engineering",
+        "graduated": "June 2021",
+        "description": "Bases in software engineering, computer science, and mathematics. Main programming languages used: Java and JavaScript."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Luxoft",
+        "title": "Fullstack Software Engineer",
+        "years": "Feb 2022 - Present",
+        "description": "Developing cloud based applications for the agricultural sector.",
+        "technologies": [
+          "Python",
+          "React",
+          "AWS"
+        ]
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Persistent Systems",
+        "title": "Sr. Front-End Software Engineer",
+        "years": "Oct 2021 - Feb 2022",
+        "description": "Develop applications for the fintech industry.",
+        "technologies": [
+          "React",
+          "NodeJS"
+        ]
+      },
+      {
+        "company": "Milwaukee Electronics",
+        "title": "Fullstack Software Engineer",
+        "years": "Oct 2021 - Present",
+        "description": "Maintaining the applications I've developed here while working as a Jr. Software Engineer.",
+        "technologies": [
+          "Python",
+          "React",
+          "MongoDB"
+        ]
+      },
+      {
+        "company": "Milwaukee Electronics",
+        "title": "Jr. Fullstack Software Engineer",
+        "years": "Nov 2020 - Oct 2021",
+        "description": "Developed algorithms and applications that now allow real-time traceability for complex data. Built an API and a system that connects different machines to it, where the data is then processed. Developed a dashboard to visualize the information classified with the previous programs in order to facilitate the information to the employees of different areas and improve the quality control of the plant.",
+        "technologies": [
+          "Python",
+          "React",
+          "MongoDB"
+        ]
+      },
+      {
+        "company": "Global Safety Textiles",
+        "title": "Fullstack Software Engineer (Intern)",
+        "years": "Feb 2021 - Jun 2021",
+        "description": "Developed a system that allows the employees to do paperwork digitally, saving them time and money.",
+        "technologies": [
+          "React",
+          "Firebase"
+        ]
+      },
+      {
+        "company": "Softtek",
+        "title": "DevOps Engineer",
+        "years": "Dec 2019 - May 2020",
+        "description": "Wrote documentation and prepared myself on different technologies and tools to be used in the future.",
+        "technologies": [
+          "Docker",
+          "Kubernetes",
+          "MongoDB",
+          "Docker",
+          "Jenkins",
+          "AWS",
+          "Postman",
+          "SoapUI"
+        ]
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Python",
+        "level": "100%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Flask",
+        "level": "80%"
       },
+      
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "80%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
-      },
-      {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "40%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Milwaukee Electronics - Web Application",
+        "category": "One of the central pieces of the traceability system.",
+        "image": "milwaukee-dashboard.png",
+        "url": "https://milwaukee-traceability-app.vercel.app/"
+      }, 
+      {
+        "title": "Milwaukee Electronics - Web Application",
+        "category": "One of the central pieces of the traceability system.",
+        "image": "on-use-dashboard (1).jpeg",
+        "url": "https://milwaukee-traceability-app.vercel.app/"
+      }, 
+      {
+        "title": "Milwaukee Electronics - Web Application",
+        "category": "One of the central pieces of the traceability system.",
+        "image": "on-use-dashboard (2).jpeg",
+        "url": "https://milwaukee-traceability-app.vercel.app/"
+      }, 
+      {
+        "title": "Milwaukee Electronics - Main Resident Program",
+        "category": "One of the central pieces of the traceability system.",
+        "image": "milwaukee-unify.jpeg",
+        "url": ""
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Menu Maker",
+        "category": "Created with small restaurants in mind, this app allowed them to host a digital menu and share it via QR Code.",
+        "image": "menu-maker.png",
+        "url": "https://restaurant-menu-creator.web.app/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "GST Auditories APP",
+        "category": "Application developed for Global Safety Textiles",
+        "image": "gst-app.png",
+        "url": "https://gst-app-18bf6.web.app/"
       }
     ]
   },

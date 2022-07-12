@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Masonry, {ResponsiveMasonry} from "react-responsive-masonry"
 
 class Portfolio extends Component {
   render() {
@@ -28,13 +29,17 @@ class Portfolio extends Component {
 
       <div className="row">
 
-         <div className="twelve columns collapsed">
+         <div className="twelve columns collapsed center-mid">
 
             <h1>Check Out Some of My Works.</h1>
 
-            <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+            <ResponsiveMasonry
+                columnsCountBreakPoints={{350: 1, 750: 2, 900: 3}}
+            >
+              <Masonry gutter="1em">
                 {projects}
-            </div>
+              </Masonry>
+            </ResponsiveMasonry>
           </div>
       </div>
    </section>
