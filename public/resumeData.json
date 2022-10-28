@@ -56,53 +56,35 @@
         "title": "Fullstack Software Engineer",
         "years": "Feb 2022 - Present",
         "description": "Developing cloud based applications for the agricultural sector.",
-        "technologies": [
-          "Python",
-          "React",
-          "AWS"
-        ]
+        "technologies": ["Python", "React", "AWS"]
       },
       {
         "company": "Persistent Systems",
         "title": "Sr. Front-End Software Engineer",
         "years": "Oct 2021 - Feb 2022",
         "description": "Develop applications for the fintech industry.",
-        "technologies": [
-          "React",
-          "NodeJS"
-        ]
+        "technologies": ["React", "NodeJS"]
       },
       {
         "company": "Milwaukee Electronics",
         "title": "Fullstack Software Engineer",
         "years": "Oct 2021 - Present",
         "description": "Maintaining the applications I've developed here while working as a Jr. Software Engineer.",
-        "technologies": [
-          "Python",
-          "React",
-          "MongoDB"
-        ]
+        "technologies": ["Python", "React", "MongoDB"]
       },
       {
         "company": "Milwaukee Electronics",
         "title": "Jr. Fullstack Software Engineer",
         "years": "Nov 2020 - Oct 2021",
         "description": "Developed algorithms and applications that now allow real-time traceability for complex data. Built an API and a system that connects different machines to it, where the data is then processed. Developed a dashboard to visualize the information classified with the previous programs in order to facilitate the information to the employees of different areas and improve the quality control of the plant.",
-        "technologies": [
-          "Python",
-          "React",
-          "MongoDB"
-        ]
+        "technologies": ["Python", "React", "MongoDB"]
       },
       {
         "company": "Global Safety Textiles",
         "title": "Fullstack Software Engineer (Intern)",
         "years": "Feb 2021 - Jun 2021",
         "description": "Developed a system that allows the employees to do paperwork digitally, saving them time and money.",
-        "technologies": [
-          "React",
-          "Firebase"
-        ]
+        "technologies": ["React", "Firebase"]
       },
       {
         "company": "Softtek",
@@ -130,7 +112,7 @@
         "name": "Flask",
         "level": "80%"
       },
-      
+
       {
         "name": "ReactJs",
         "level": "80%"
@@ -172,19 +154,25 @@
         "category": "One of the central pieces of the traceability system.",
         "image": "milwaukee-dashboard.png",
         "url": "https://milwaukee-traceability-app.vercel.app/"
-      }, 
+      },
+      {
+        "title": "Milwaukee Electronics - Web Application",
+        "category": "One of the central pieces of the traceability system.",
+        "image": "milwaukee-dashboard-2.png",
+        "url": "https://milwaukee-traceability-app.vercel.app/"
+      },
       {
         "title": "Milwaukee Electronics - Web Application",
         "category": "One of the central pieces of the traceability system.",
         "image": "on-use-dashboard (1).jpeg",
         "url": "https://milwaukee-traceability-app.vercel.app/"
-      }, 
+      },
       {
         "title": "Milwaukee Electronics - Web Application",
         "category": "One of the central pieces of the traceability system.",
         "image": "on-use-dashboard (2).jpeg",
         "url": "https://milwaukee-traceability-app.vercel.app/"
-      }, 
+      },
       {
         "title": "Milwaukee Electronics - Main Resident Program",
         "category": "One of the central pieces of the traceability system.",
