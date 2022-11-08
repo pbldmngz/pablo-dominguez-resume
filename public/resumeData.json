@@ -15,8 +15,8 @@
       "country": "Mexico",
       "zip": "22800"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://pablodominguez.net",
+    "website": "http://pablodominguez.net",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=15DjgKBu71XMGZvsKk58oK5RLe2w49JLo",
     "social": [
       {
         "name": "linkedin",
@@ -74,7 +74,7 @@
       },
       {
         "company": "Milwaukee Electronics",
-        "title": "Jr. Fullstack Software Engineer",
+        "title": "Fullstack Software Engineer",
         "years": "Nov 2020 - Oct 2021",
         "description": "Developed algorithms and applications that now allow real-time traceability for complex data. Built an API and a system that connects different machines to it, where the data is then processed. Developed a dashboard to visualize the information classified with the previous programs in order to facilitate the information to the employees of different areas and improve the quality control of the plant.",
         "technologies": ["Python", "React", "MongoDB"]
